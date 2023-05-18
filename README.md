@@ -1,0 +1,2 @@
+# StockPosition
+my stock manager
